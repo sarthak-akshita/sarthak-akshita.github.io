@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sarthak & Akshita//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:reception-2026@sarthak-akshita
+DTSTAMP:20261106T000000Z
+DTSTART:20261205T140000Z
+DTEND:20261205T170000Z
+SUMMARY:Reception · Sarthak & Akshita
+LOCATION:Oasis Lawn\, Snehjeev Paradise\, Kanadia Road\, Indore
+DESCRIPTION:Wedding reception of Sarthak & Akshita. Saturday\, 5 December · 7:30 PM onwards (IST). https://sarthak-akshita.github.io/
+URL:https://sarthak-akshita.github.io/
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reception
+END:VALARM
+END:VEVENT
+END:VCALENDAR
